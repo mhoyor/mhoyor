@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhoyor
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Full Stack Development/Mobile App
+- 💞️ I’m looking to collaborate on Data science and Machine learning projects
 - 📫 How to reach me aiyewumiv@gmail.com
 
 <!---
